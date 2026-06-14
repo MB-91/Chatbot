@@ -1,4 +1,4 @@
-# Chtatbot
+# Chatbot
 
 A small console-based chatbot implemented in C++.
 
