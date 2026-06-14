@@ -52,14 +52,3 @@ Alternatively, use the included `chatbot.exe` on Windows.
 
 - This is a lightweight example meant for learning or extension. Feel free to refactor into multiple files, add a Makefile/CMakeLists, or expand bot logic.
 
-## License
-
-Add a license of your choice (e.g. MIT) if you plan to publish the project.
-
----
-
-If you'd like, I can also:
-
-- Add a `Makefile` or `CMakeLists.txt` for cross-platform builds
-- Remove or explain the included binary
-- Improve the README with examples of interactions
